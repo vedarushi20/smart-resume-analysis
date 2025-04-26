@@ -1,0 +1,55 @@
+python
+java
+c++
+c#
+html
+css
+javascript
+react
+angular
+node.js
+express
+django
+flask
+sql
+mysql
+postgresql
+mongodb
+git
+github
+linux
+bash
+api
+rest
+json
+xml
+tensorflow
+keras
+pytorch
+opencv
+nlp
+machine learning
+deep learning
+data analysis
+data visualization
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tableau
+power bi
+aws
+azure
+gcp
+firebase
+docker
+kubernetes
+agile
+scrum
+communication
+teamwork
+leadership
+problem solving
+deep learning
+
